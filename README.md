@@ -9,6 +9,8 @@
 
 A collection of resources on Shape Correspondences and some of my reading notes.
 
+</div>
+
 **Contributing:** Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to pull a request or leave an issue. I have also released the [latex-pdf version](). markdown format:
 
 ``` markdown
@@ -19,8 +21,6 @@ A collection of resources on Shape Correspondences and some of my reading notes.
 A summary here
 </p></details>
 ```
-
-</div>
 
 [toc]
 
