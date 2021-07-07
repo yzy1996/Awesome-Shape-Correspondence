@@ -9,7 +9,20 @@
 
 A collection of resources on Shape Correspondences and some of my reading notes.
 
+**Contributing:** Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to pull a request or leave an issue. I have also released the [latex-pdf version](). markdown format:
+
+``` markdown
+[Paper Name](abs/pdf link)  
+**[`Conference/Journal Year`]**	 **(`Institution`)**	[[Github](link)]	[[Project](link)]  
+*[Author 1](homepage), Author 2, and Author 3.*  
+<details><summary>Click to expand</summary><p>
+A summary here
+</p></details>
+```
+
 </div>
+
+[toc]
 
 Both 2D and 3D keypoint detection are long-standing problems in computer vision. 
 
@@ -22,10 +35,6 @@ Conventional works define keypoints manually or learn from supervised examples, 
 The keypoints should be **geometrically** and **semantically** consistent across viewing angles and instances of an object category.
 
 The model we learn often covers a collection of objects of **a specific category**.
-
-
-
-[toc]
 
 <img src="https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/20210707114641.png" alt="image-20210526160159027" style="zoom: 50%;" />
 
