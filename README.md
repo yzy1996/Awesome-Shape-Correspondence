@@ -97,7 +97,7 @@ robotics applications need 3D keypoints for control
 
 **Non-Rigid Structure-from-Motion (NRSfM)** methods ref:
 
-- Multiview aggregation for learning category-specific shape reconstruction
+- Multiview aggregation for learning category-specific shape reconstruction
 - Symmetric non-rigid structure from motion for category-specific object structure estimation
 
 > The key idea is that a large number of object deformations can be explained by linearly combining a smaller K number of basis shapes at some pose. 对刚体而言，只有一个基础形状，秩为3。
