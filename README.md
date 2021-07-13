@@ -21,7 +21,7 @@ A collection of resources on Shape Correspondences and some of my reading notes.
 
 ## Contents
 
-- [Definition](#Definition)
+- [Introduction](#Introduction)
 - [Impact](#Impact)
 - [Evaluation](#Evaluation)
 - [Data](#Data)
@@ -33,6 +33,10 @@ A collection of resources on Shape Correspondences and some of my reading notes.
   - [Other domain](#Other-domain)
 
 ---
+
+
+
+## Introduction
 
 Both 2D and 3D keypoint detection are long-standing problems in computer vision. 
 
@@ -48,7 +52,7 @@ The model we learn often covers a collection of objects of **a specific category
 
 <img src="https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/20210707114641.png" alt="image-20210526160159027" style="zoom: 50%;" />
 
-## Definition
+
 
 **Shape correspondence problem** is stated as finding a set of corresponding points between given shapes.
 
