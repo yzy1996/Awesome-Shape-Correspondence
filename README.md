@@ -50,9 +50,7 @@ The keypoints should be **geometrically** and **semantically** consistent across
 
 The model we learn often covers a collection of objects of **a specific category**.
 
-<img src="https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/20210707114641.png" alt="image-20210526160159027" style="zoom: 50%;" />
-
-
+<div align=center><img width="400" src="https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/20210707114641.png"/></div>
 
 **Shape correspondence problem** is stated as finding a set of corresponding points between given shapes.
 
