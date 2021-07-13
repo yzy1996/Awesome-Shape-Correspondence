@@ -28,9 +28,9 @@ A collection of resources on Shape Correspondences and some of my reading notes.
 - [Literature](#Literature)
   - [Survey](#Survey)
   - [Supervised](#Supervised)
-  - [2D Perspective](#2D Perspective)
-  - [3D Perspective](#3D Perspective)
-  - [Other domain](#Other domain)
+  - [2D Perspective](#2D-Perspective)
+  - [3D Perspective](#3D-Perspective)
+  - [Other domain](#Other-domain)
 
 ---
 
