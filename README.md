@@ -19,7 +19,7 @@ A collection of resources on Shape Correspondences and some of my reading notes.
 *[Author 1](homepage), Author 2, and Author 3.*  
 ```
 
-## Contents
+## Table of Contents
 
 - [Introduction](#Introduction)
 - [Impact](#Impact)
