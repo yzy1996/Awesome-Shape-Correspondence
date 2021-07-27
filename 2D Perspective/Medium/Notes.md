@@ -58,7 +58,7 @@ They combine **pixel-to-3D** and **3D-to-pixel** to form a **cycle** and then us
 
 **dubbed-"KeypointNet"**
 
-learn category- specific 3D keypoints by solving an auxiliary task of rigid registration between multiple renders of the same shape and by considering the category instances to be pre-aligned.
+learn category- specific 3D keypoints by solving an auxiliary task of rigid registration between multiple renders of the same shape and by considering the category instances to be pre-aligned.
 
 from an end-to-end geometric reasoning framework, jointly optimize the keypoints.
 
