@@ -135,11 +135,9 @@ The aim is to train a network to learn an embedding that encodes facial attribut
 
 <details><summary>Click to expand</summary>
 
-
 <div align=center>
 	<img src="https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/20210508112737.png" width="800" />
 </div>
-
 
 > **Summary**
 
