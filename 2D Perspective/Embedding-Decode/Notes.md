@@ -102,6 +102,7 @@ Introduce a **conditional generator** design combining **image translation**
 用了 Adversarial loss，是通过新的 unpaired 数据 (看上图)。目标是希望 新生成的 和 真实的不匹配 一致 (比如都是轮廓样式)。
 
 一个 AE loss，用的是 VGG 的 perceptual loss 
+
 $$
 \mathcal{L}_{\text {perc }}=\frac{1}{N} \sum_{i=1}^{N}\left\|\Gamma\left(\hat{x}_{i}\right)-\Gamma\left(\boldsymbol{x}_{i}\right)\right\|_{2}^{2},
 $$
@@ -121,7 +122,6 @@ $$
 *Olivia Wiles, A. Sophia Koepke, Andrew Zisserman*
 
 <details><summary>Click to expand</summary>
-
 
 The aim is to train a network to learn an embedding that encodes facial attributes in a self supervised manner, without any labels.
 
