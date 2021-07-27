@@ -55,11 +55,9 @@ $$
 
 <details><summary>Click to expand</summary>
 
-
 <div align=center>
 	<img src="https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/20210511180002.png" width="400" />
 </div>
-
 
 > **Summary**
 
@@ -86,7 +84,6 @@ keypoints)，就想是一个embedding) to establish correspondences between imag
 
 <details><summary>Click to expand</summary>
 
-
 <div align=center>
 	<img src="https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/20210511173048.png" width="800" />
 </div>
@@ -108,7 +105,9 @@ Introduce a **conditional generator** design combining **image translation**
 $$
 \mathcal{L}_{\text {perc }}=\frac{1}{N} \sum_{i=1}^{N}\left\|\Gamma\left(\hat{x}_{i}\right)-\Gamma\left(\boldsymbol{x}_{i}\right)\right\|_{2}^{2},
 $$
+	
 一个 difference adversarial loss：
+	
 $$
 \mathcal{L}_{\mathrm{disc}}(D)=\frac{1}{M} \sum_{j=1}^{M} D\left(\overline{\boldsymbol{y}}_{j}\right)^{2}+\frac{1}{N} \sum_{i=1}^{N}\left(1-D\left(\boldsymbol{y}_{i}\right)\right)^{2}
 $$
@@ -170,11 +169,9 @@ $$
 
 <details><summary>Click to expand</summary>
 
-
 <div align=center>
 	<img src="https://raw.githubusercontent.com/yzy1996/Image-Hosting/master/20210508214918.png" width="800" />
 </div>
-
 
 > **Summary**
 
