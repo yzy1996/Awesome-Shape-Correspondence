@@ -106,7 +106,7 @@ Introduce a **conditional generator** design combining **image translation**
 $$
 \mathcal{L}_{\text {perc }}=\frac{1}{N} \sum_{i=1}^{N}\left\|\Gamma\left(\hat{x}_{i}\right)-\Gamma\left(\boldsymbol{x}_{i}\right)\right\|_{2}^{2},
 $$
-	
+
 一个 difference adversarial loss：
 	
 $$
