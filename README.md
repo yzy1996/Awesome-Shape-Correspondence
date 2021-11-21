@@ -15,8 +15,8 @@ A collection of resources on Shape Correspondences and some of my reading notes.
 
 ``` markdown
 [Paper Name](abs/pdf link)  
+*[Author 1](homepage), Author 2, and Author 3.*
 **[`Conference/Journal Year`] (`Institution`)** [[Github](link)] [[Project](link)]
-*[Author 1](homepage), Author 2, and Author 3.*  
 ```
 
 ## Table of Contents
