@@ -36,10 +36,6 @@ A collection of resources on Shape Correspondences and some of my reading notes.
   - [3D Perspective](#3D-Perspective)
   - [Other domain](#Other-domain)
 
----
-
-
-
 ## Introduction
 
 Both 2D and 3D keypoint detection are long-standing problems in computer vision. 
