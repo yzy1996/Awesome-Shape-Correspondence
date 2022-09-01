@@ -11,13 +11,17 @@ A collection of resources on Shape Correspondences and some of my reading notes.
 
 </div>
 
-**Contributing:** Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to pull a request or leave an issue. I have also released the [latex-pdf version](). markdown format:
+**Contributing:** Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to pull a request or leave an issue. I will release the [latex-pdf version]() in the future. :arrow_down:markdown format:
 
 ``` markdown
-[Paper Name](abs/pdf link)  
-*[Author 1](homepage), Author 2, and Author 3.*
+[Paper Name](abs link)  
+*[Author 1](homepage), Author 2, and Author 3*
 **[`Conference/Journal Year`] (`Institution`)** [[Github](link)] [[Project](link)]
 ```
+
+:smile: Now you can use this [script](https://github.com/yzy1996/Python-Code/tree/master/Python%2BarXiv) to automatically generate the above text.
+
+:warning: To better display the formula, you'd better local download this file and view it.
 
 ## Table of Contents
 
