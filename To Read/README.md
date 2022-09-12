@@ -30,3 +30,11 @@ Deep Functional Maps: Structured Prediction for Dense Shape Correspondence
 FAUST: Dataset and evaluation for 3D mesh registration
 
 Unsupervised cycle-consistent deformation for shape matching
+
+
+
+
+
+
+
+CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs

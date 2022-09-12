@@ -256,8 +256,7 @@ Compared with directly learning correspondence maps from 2D images, learning fro
 
 #### 3D medium Template 
 
-> Plato famously remarked that while there are many cups in the world, there is only one 'idea' of a cup, which he defined as a 'cupness'. So Any particular instance of a category can thus be understood via its
-> relationship to this platonic ideal. We humans have an ability to reason 3D structure from a 2D image.
+> Plato famously remarked that while there are many cups in the world, there is only one 'idea' of a cup, which he defined as a 'cupness'. So Any particular instance of a category can thus be understood via its relationship to this platonic ideal. We humans have an ability to reason 3D structure from a 2D image.
 
 - [Learning Dense Correspondence via 3D-guided Cycle Consistency](https://arxiv.org/pdf/1604.05383.pdf)  
   **[`CVPR 2016`] (`UCB`)**  
