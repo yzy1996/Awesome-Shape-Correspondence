@@ -21,8 +21,6 @@ A collection of resources on Shape Correspondences and some of my reading notes.
 
 :smile: Now you can use this [script](https://github.com/yzy1996/Python-Code/tree/master/Python%2BarXiv) to automatically generate the above text.
 
-:warning: To better display the formula, you'd better local download this file and view it.
-
 ## Table of Contents
 
 - [Introduction](#Introduction)
